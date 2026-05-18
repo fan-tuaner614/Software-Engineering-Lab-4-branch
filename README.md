@@ -1,4 +1,4 @@
-# lab4-branch-demo
+# Software-Engineering-Lab-4-branch
 
 用于演示 GitHub 分支创建、并行修改、冲突解决与远程推送。
 
