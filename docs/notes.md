@@ -2,5 +2,3 @@
 
 - B1 keeps the baseline files
 - Current stage: initial setup complete
-
-# 这是B2新增内容
