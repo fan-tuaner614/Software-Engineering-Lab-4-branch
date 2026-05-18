@@ -1,0 +1,3 @@
+Setup repository
+Create branches
+Merge and resolve conflicts
